@@ -1,3 +1,18 @@
+```diff
++ # Faces документация
+- this text is highlighted in red
+```
+
+# Faces документация
+## О приложении
+Напиши здесь что то от себя о приложении, постарайся вкратце его описать
+
+## Архитектура и библиотеки проекта
+### Архитектура
+В данном проекте мы используем MVP
+
+
+
 # Google Play
 [`My newspapers`](http://play.google.com/store/apps/details?id=newspaper.gamestudiostandart.newspaper)
 
