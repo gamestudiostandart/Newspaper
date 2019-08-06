@@ -1,6 +1,5 @@
 ```diff
-+ # Faces документация
-- this text is highlighted in red
+# Faces документация
 ```
 
 # Faces документация
